@@ -356,3 +356,9 @@ Thread:write(newScript)
 Thread:close()
 --Finished
 print("Sucessfully obfuscated your script!")
+local load = print
+local loadstring = print
+
+
+
+
